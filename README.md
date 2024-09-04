@@ -4,6 +4,7 @@ Materiais úteis para quem está buscando estudar sobre programação, ciência 
 ## Git
 
 Para quem já conhece Git:
+- [Livro: Pro Git (Scott Chacon, Ben Straub)](https://git-scm.com/book/en/v2) - inglês, com [tradução parcial em PT-BR](https://git-scm.com/book/pt-br/v2)
 - [Video: Entendendo Git (Fabio Akita)](https://www.youtube.com/watch?v=6Czd1Yetaac&t=2s&pp=ygUJZ2l0IGFraXRh)
 - [Video: Usando Git direito (Fabio Akita)](https://www.youtube.com/watch?v=6OokP-NE49k&t=1805s&pp=ygUJZ2l0IGFraXRh)
 
